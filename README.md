@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/vy__k__/" target="_blank"><img src="https://img.shields.io/badge/vy__k__-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="mailto:vinvin010@kyonggi.ac.kr" target="_blank"><img src="https://img.shields.io/badge/vinvin010@kyonggi.ac.kr-EA4335?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/vy__k__/" target="_blank"><img src="https://img.shields.io/badge/vy__k__-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="mailto:vinvin010@kyonggi.ac.kr" target="_blank"><img src="https://img.shields.io/badge/vinvin010@kyonggi.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beenee010&show_icons=true&theme=radical)
