@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/vy__k__/" target="_blank"><img src="https://img.shields.io/badge/vy__k__-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="mailto:vinvin010@kyonggi.ac.kr" target="_blank"><img src="https://img.shields.io/badge/vinvin010@kyonggi.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://sites.google.com/view/ksel" target="_blank"><img src="https://img.shields.io/badge/NSELab-00BAFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
-<a href="https://github.com/beenee010/beenee010/files/7661766/resume_.Sung-been.Kim._211206-1526.pdf" target="_blank"><img src="https://img.shields.io/badge/Sungbeen Kim-00BAFF?style=for-the-badge&logo=linkedIn&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beenee010&show_icons=true&theme=react)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beenee010&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/beenee010)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=beenee010)
