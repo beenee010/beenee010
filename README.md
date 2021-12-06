@@ -14,7 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 🔭 I’m currently working on _**Kyonggi Univ. Security Engineering Lab.**_
+
+🌱 I’m currently learning _**Blockchain**_ and _**Network Security**_
+
+⚡ **Fun fact:** _ETH, BTC, KLAY_ -->
+
 <div align=center>
+  
+  🔭 I’m currently working on _**Kyonggi Univ. Security Engineering Lab.**_
+
+🌱 I’m currently learning _**Blockchain**_ and _**Network Security**_
+
+⚡ **Fun fact:** _ETH, BTC, KLAY_
+  <br>
+  
 <h1>Skills 💪</h1>
   
 ### Platforms & Languages  ⌨
