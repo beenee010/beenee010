@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <a href="mailto:vinvin010@kyonggi.ac.kr" target="_blank"><img src="https://img.shields.io/badge/vinvin010@kyonggi.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://sites.google.com/view/ksel" target="_blank"><img src="https://img.shields.io/badge/NSELab-00BAFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beenee010&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beenee010&show_icons=true&theme=react)
