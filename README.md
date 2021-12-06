@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Skills 💪
-### Platforms & Languages  ⌨️
+<div align=center>
+<h1>Skills 💪</h1>
+  
+### Platforms & Languages  ⌨
+  
+
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/></a>
@@ -50,6 +54,9 @@ Here are some ideas to get you started:
 <a href="https://sites.google.com/view/ksel" target="_blank"><img src="https://img.shields.io/badge/NSELab-00BAFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beenee010&show_icons=true&theme=react)
+  
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beenee010&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/beenee010)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=beenee010)
+  
+</div>
